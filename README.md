@@ -6,13 +6,12 @@ From @sifxtreme's markdown editor located [here](https://github.com/sifxtreme/re
 Type your markdown into the box on the left and immediately see it converted in the box on the right. 
 It's a lighter, private [markdown notes](https://markdownnotes.com)
 
-## How to Use
-clone repo
+## How to Make Your Own
+*clone repo
+*create heroku app with `$ heroku create`
+*`$ git push heroku master`
+*`heroku open`
 
-create heroku app with `$ heroku create`
-
-`$ git push heroku master`
-
-`heroku open`
-
-If you send a friend a link to this URL you both can edit the document at the same time!
+Type anything after the dash in the heroku app URL.
+Send it to a friend, and you both can edit the document at the same time!
+Say hello! (https://secretchat.herokuapp.com/hello)
