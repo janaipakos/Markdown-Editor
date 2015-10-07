@@ -1,0 +1,30 @@
+{
+  "name": "markdown_viewer",
+  "version": "1.0.0",
+  "description": "realtime markdown viewer",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/janaipakos/realtime-markdown.git"
+  },
+  "keywords": [
+    "markdown",
+    "realtime",
+    "sharejs"
+  ],
+  "author": "James Anaipakos",
+  "dependencies": {
+    "ejs": "^2.3.1",
+    "express": "^4.12.4",
+    "redis": "^2.0.0",
+    "share": "^0.6.3"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janaipakos/realtime-markdown/issues"
+  },
+  "homepage": "https://github.com/janaipakos/realtime-markdown#readme"
+}
