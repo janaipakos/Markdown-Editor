@@ -5,6 +5,8 @@ From @sifxtreme's markdown editor located [here](https://github.com/sifxtreme/re
 ## What is this
 Type your markdown into the box on the left and immediately see it converted in the box on the right. 
 
+Collaborate on documents with friends, easily and securely send messages, set up a random chat room.
+
 It's a lighter, private [markdown notes](https://markdownnotes.com)
 
 ## How to Make Your Own
