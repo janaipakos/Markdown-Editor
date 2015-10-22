@@ -14,9 +14,8 @@ From @sifxtreme's markdown editor located [here](https://github.com/sifxtreme/re
 
 - Wander into other rooms, and chat with strangers and . . . new friends?
 
-
 - Careful. Anything deleted is **gone forever**.
-- 
+
 ## How to Make Your Own
 - `$ git clone https://github.com/janaipakos/Zeitgeist-Chatroom.git`
 - `$ npm install`
