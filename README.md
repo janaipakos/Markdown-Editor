@@ -19,7 +19,7 @@ From @sifxtreme's markdown editor located [here](https://github.com/sifxtreme/re
 - Wander into rooms, meet strangers and new friends, and realize the constant risk of being forgotten.
 
 ## How to Make Your Own
-- `$ git clone https://github.com/janaipakos/Zeitgeist-Chatroom.git`
+- `$ git clone https://github.com/janaipakos/Ozymandias-Chatroom.git`
 - `$ npm install`
 - `$ heroku create`
 - `$ git push heroku master`
