@@ -1,18 +1,25 @@
-# Markdown-Editor
+# Zeitgeist Chatroom
 
 From @sifxtreme's markdown editor located [here](https://github.com/sifxtreme/realtime-markdown-viewer).
 
 ## What is this
-- Type your markdown into the box on the left and immediately see it converted in the box on the right. 
-- Type anything after the dash in the heroku app URL. Send this URL to a friend, and edit the document at the same time!
-- Say hello! [https://secretchat.herokuapp.com/hello](https://secretchat.herokuapp.com/hello)
+####  A pomo chat room
+- Type your [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) into the box on the left and see it converted on the right.
 
-Collaborate on documents with friends, quickly see if your markdown works, easily and securely send messages, set up a random chat room.
+- Type your room name after the dash in the URL, and discover a way to quickly chat with friends.
 
-It's a lighter, private [markdown notes](https://markdownnotes.com)
+`(secretchat.herokuapp.com/whatever!)` 
 
+- Collaborate and chat with friends in an agreed upon room. No sign-up needed.
+
+- Wander into other rooms, and chat with strangers and . . . new friends?
+
+
+- Careful. Anything deleted is **gone forever**.
+- 
 ## How to Make Your Own
-- `$ git clone https://github.com/janaipakos/Markdown-Editor.git`
+- `$ git clone https://github.com/janaipakos/Zeitgeist-Chatroom.git`
+- `$ npm install`
 - `$ heroku create` 
 - `$ git push heroku master`
 - `$ heroku open`
