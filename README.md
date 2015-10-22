@@ -1,24 +1,26 @@
-# Zeitgeist Chatroom
+# Ozymandias Chatroom
 
 From @sifxtreme's markdown editor located [here](https://github.com/sifxtreme/realtime-markdown-viewer).
 
 ## What is this
-####  A pomo chat room
+###  Your ephemeral chatroom
+#### for conversations without historical record or import
+
 - Type your [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) into the box on the left and see it converted on the right.
 
 - Type your room name after the dash in the URL, and discover a way to quickly chat with friends.
 
-`(secretchat.herokuapp.com/whatever!)` 
+`(https://secretchat.herokuapp.com/whatever!)`
 
-- Collaborate and chat with friends in an agreed upon room. No sign-up needed.
+- Share the link with friends, and chat with them in real-time. No sign-up needed.
 
-- Wander into other rooms, and chat with strangers and . . . new friends?
+- Nothing is recorded and anything deleted is **gone forever**.
 
-- Careful. Anything deleted is **gone forever**.
+- Wander into rooms, meet strangers and new friends, and realize the constant risk of being forgotten.
 
 ## How to Make Your Own
 - `$ git clone https://github.com/janaipakos/Zeitgeist-Chatroom.git`
 - `$ npm install`
-- `$ heroku create` 
+- `$ heroku create`
 - `$ git push heroku master`
 - `$ heroku open`
