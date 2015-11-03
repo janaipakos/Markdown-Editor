@@ -5,6 +5,7 @@ From @sifxtreme's markdown editor located [here](https://github.com/sifxtreme/re
 ## What is this
 ###  Your ephemeral chatroom
 #### for conversations without historical record or import
+- Visit the chatroom here [https://secretchat.herokuapp.com]
 
 - Type your [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) into the box on the left and see it converted on the right.
 
