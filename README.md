@@ -1,10 +1,10 @@
 # Ozymandias Chatroom
-
-From @sifxtreme's markdown editor located [here](https://github.com/sifxtreme/realtime-markdown-viewer).
+An ephemeral chatroom built in Express and Node.
 
 ## What is this
-###  Your ephemeral chatroom
-#### for conversations without historical record or import
+Lets users create their own private chatrooms, share links, and type in Markdown.
+
+## Try it
 - Visit the chatroom here: https://secretchat.herokuapp.com
 
 - Type your [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) into the box on the left and see it converted on the right.
@@ -12,6 +12,8 @@ From @sifxtreme's markdown editor located [here](https://github.com/sifxtreme/re
 - Type your room name after the dash in the URL, and discover a way to quickly chat with friends.
 
 `(https://secretchat.herokuapp.com/whatever!)`
+
+## Features
 
 - Share the link with friends, and chat with them in real-time. No sign-up needed.
 
@@ -25,3 +27,10 @@ From @sifxtreme's markdown editor located [here](https://github.com/sifxtreme/re
 - `$ heroku create`
 - `$ git push heroku master`
 - `$ heroku open`
+
+## Image
+![ozy_chat_screenshot.png][1]
+
+From @sifxtreme's markdown editor located [here](https://github.com/sifxtreme/realtime-markdown-viewer).
+
+[1]: https://github.com/janaipakos/Ozymandias-Chatroom/blob/master//public/ozy_chat_screenshot.png
